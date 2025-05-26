@@ -14,12 +14,6 @@ Este é um projeto simples de linha de comando em linguagem C que permite gerenc
 - Entrada e saída padrão
 - Manipulação de arquivos (`eventos.txt`)
 
-## Estrutura do Projeto
-
-├── agenda.c # Código-fonte principal
-├── eventos.txt # Arquivo que armazena os eventos
-└── README.md # Este arquivo
-
 ## Interface 
 
 ===== AGENDA DE EVENTOS =====
